@@ -1,0 +1,10 @@
+h1{
+    background-color: aquamarine;
+    font-size: larger;
+    font-style: italic;
+}
+h2{
+    background-color: brown;
+    font-language-override: inherit;
+    font-size: xx-small;
+}
